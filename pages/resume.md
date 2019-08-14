@@ -1,28 +1,36 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: single
+classes: wide
+title: Resume
+permalink: /resume/
+toc: true 
+author: false
 ---
 
-# Mat Greten
+## Summary
 
 Empathy Driven Development Feature development and bug squashing, backed by 10+ years of customer service and technical support experience.
 
-## EXPERIENCE
+## Experience
 
-### SOFTWARE ENGINEER - KAPOST
+### Software Engineer
+
+**Kapost**
 
 2018-10 - now
 
 - Collaboratively sized and groomed planned feature work with other engineers, product, and design team members for three large feature releases.
 - Participated in rolling point-guard rotation: bug triage, on-call, manage deployments.Revamped existing features written in Backbone and Coffeescript into React/Redux while expanding features and functionality.
-- Reviewed teammate's code in 100+ PRs.Iteratively refactored code based on teammates reviews in 90+ PRs opened by me.
+- Reviewed teammate's code in 100+ PRs.
+- Iteratively refactored code based on teammates reviews in 90+ PRs opened by me.
 - Practiced pair programming in person and over Zoom with senior engineers.
 - Ensured that test coverage of checked in code did not exceed 3% missing coverage standard.
 
 **Language emphasis:** _React_
 
-### TECHNICAL SUPPORT ANALYST - KAPOST
+### Technical Support Analyst
+
+**Kapost**
 
 2016-08 - 2018-11
 
@@ -41,20 +49,31 @@ Technical Support Analyst specializing in troubleshooting and resolving customer
 
 Language emphasis: Ruby
 
-## EDUCATION
+## Education
 
-### WESTERN GOVERNORS UNIVERSITY
+### Western Governors University
 
 2016 - 2017
 
-Bachelor of ScienceSoftware DevelopmentA+ | Project+ | Network+ | Security+
+Bachelor of ScienceSoftware Development
 
-### MOODY BIBLE INSTITUTE
+Certifications earned:
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Project+
+- CompTIA Security+
+
+### Moody Bible Institute
 
 2006 - 2010
 
-Bachelor of Arts Counseling &amp; Psychology
+Bachelor of Arts Counseling & Psychology
 
-## LANGUAGES
+## Languages
 
-React / Redux, Ruby / Rails, HTML / CSS
+- React
+- Redux
+- Ruby
+- Rails
+- HTML
+- CSS
