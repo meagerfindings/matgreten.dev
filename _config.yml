@@ -22,13 +22,33 @@ url: "https://matgreten.dev" # the base hostname & protocol for your site, e.g. 
 github_username:  "meagerfindings"
 repository: "meagerfindings/matgreten.dev"
 
-# Author Name
-name: Mat Greten
+author:
+  name: "Mat Greten"
+  avatar: "/images/profile/fourpass.jpg"
+  bio: "A glass can only spill what it contains." # Note: Markdown is allowed
+  location: "Colorado"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/meagerfindings"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/meagerfindings"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/meagerfindings"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/matthewgreten/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/meagerfindings"
+
 
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache

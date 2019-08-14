@@ -16,6 +16,7 @@ _If you kindly decide to purchase an item for me from Amazon.com, please visit A
 
 ## 📖 Books
 _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Screenshot](https://goo.gl/PgPwqF)), sign into Amazon, and choose to send the gift to yourself so I am not notified immediately, meaning you can send me the link when you want ([Screenshot](https://goo.gl/YY4Zxm))._
+- [Star Wars: Thrawn Treason (Kidle version)](https://www.amazon.com/Thrawn-Treason-Star-Wars-Book-ebook/dp/B07L7SSJ5K/ref=sr_1_1?keywords=thrawn&qid=1565816635&s=gateway&sr=8-1) - $15
 - [The Complete Privacy & Security Desk Reference: Volume I: Digital (Volume 1)](https://amzn.to/2K9E14R) - $30
 - [Enemies of Peace Kindle Edition](https://amzn.to/2LNOPKO) - $3
 - [Refactoring: Improving the Design of Existing Code, Kindle Edition](https://amzn.to/2zVn3Y4) - $41
@@ -40,8 +41,8 @@ _For any Amazon e-books given as gifts, you can select **Give as a Gift** ([Scre
 - [Outdoor Emergency Trauma Kit](https://amzn.to/2zPpEms) - $40
 - [Tourniquet](https://www.narescue.com/combat-application-tourniquet-c-a-t) - $30 - _Only purchase directly from CAT due to forgeries on Amazon._
 
-## 🎧 Music
+<!-- ## 🎧 Music
 - [Bluetooth audio adapter](https://www.amazon.com/dp/B008AGQMQC/_encoding=UTF8?coliid=ITG2845BNWPT6&colid=377WTGEIH9JPF) - $15
-- [ Wireless Conversion Kit Short Cable for Audio-Technica Sennheiser Headphones](https://www.amazon.com/dp/B01N0OA64P/_encoding=UTF8?coliid=I3MR30IIB1HRTF&colid=377WTGEIH9JPF) - $9
+- [ Wireless Conversion Kit Short Cable for Audio-Technica Sennheiser Headphones](https://www.amazon.com/dp/B01N0OA64P/_encoding=UTF8?coliid=I3MR30IIB1HRTF&colid=377WTGEIH9JPF) - $9 -->
 
 ## 🍿 Movies

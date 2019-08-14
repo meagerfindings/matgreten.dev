@@ -12,6 +12,6 @@ Calculate your Financial Independence number, learn about FI. Includes variable 
 
 This is also my first React App.
 
-View the [live demo](/ficalc/index).
+View the [live demo](/ficalc/).
 
 View this project on [GitHub](https://github.com/meagerfindings/early_retirement_calculators).

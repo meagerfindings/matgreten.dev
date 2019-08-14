@@ -1,17 +1,20 @@
 ---
 layout: single
-classes: wide
 title: Resume
 permalink: /resume/
 toc: true 
 author: false
+toc_label: "  Experience"
+toc_icon: "file-alt"
 ---
 
 ## Summary
 
-Empathy Driven Development Feature development and bug squashing, backed by 10+ years of customer service and technical support experience.
+Empathy Driven Development
 
-## Experience
+Feature development and bug squashing, backed by 10+ years of customer service and technical support experience.
+
+## Professional
 
 ### Software Engineer
 
