@@ -13,19 +13,59 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mat Greten
-email: matgreten@protonmail.com
+title: "Mat Greten"
+email: "matgreten@protonmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Feature development and bug squashing, backed by 10+ years of customer service and technical support experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matgreten.dev" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  meagerfindings
+github_username:  "meagerfindings"
+repository: "meagerfindings/matgreten.dev"
+
+# Author Name
+name: Mat Greten
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: "/portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _posts
+  - scope:
+      path: "/posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -38,3 +78,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/meagerfindings"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/meagerfindings"
+    - label: "Keybase"
+      icon: "fab fa-keybase"
+      url: "https://keybase.io/meagerfindings"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/matthewgreten/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/meagerfindings"
