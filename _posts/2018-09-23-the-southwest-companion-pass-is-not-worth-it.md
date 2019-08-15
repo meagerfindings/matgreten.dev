@@ -2,19 +2,17 @@
 layout: single
 title: "The Southwest Companion Pass is not Worth It"
 slug: the-southwest-companion-pass-is-not-worth-it
-# permalink:
-feature-img: "images/unsplash/plane-waiting.jpg"
-thumbnail: "images/unsplash/plane-waiting.jpg"
+header:
+  overlay_image: images/unsplash/plane-waiting.jpg
+  og_image: images/unsplash/plane-waiting.jpg
 tags: [travel rewards, faith, fi, travel hacking, southwest]
 categories: [faith]
 hide: true
 toc: false
-excerpt_separator: <!--more-->
 ---
 
 Yes, it is the holy grail of travel rewards. Yes, it means that you get free flights for your companion. Yes, this is a half off on flights you'd take already. Yes, you'll get this for about two years. Yes, just by earning it, you'll probably have enough points to fly for free for two whole years. But it is not worth the cost.
 
-<!--more-->
 
 The Southwest Companion pass is not worth it for us.
 

@@ -2,7 +2,6 @@
 layout: single
 classes: wide
 title: 'Trip Report: Backpacking the Four Pass Loop'
-slug: trip-report-backpacking-the-four-pass-loop
 date: 2018-07-12
 header:
   overlay_image: images/posts/four_pass_loop/four_pass_featured_image.png

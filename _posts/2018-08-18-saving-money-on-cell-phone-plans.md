@@ -1,12 +1,9 @@
 ---
 layout: single
 title: Saving Money on Cell Phone Plans
-slug: saving-money-on-cell-phone-plans
-# permalink:
-feature-img: "/mages/unsplash/pixel-2.jpg"
-thumbnail: "/mages/unsplash/pixel-2.jpg"
-tags: [cellphones, frugal, saving, google project fi, mint mobile, wireless, bills, fi]
-hide: true
+header:
+  overlay_image: /images/unsplash/pixel-2.jpg
+  og_image: /images/unsplash/pixel-2.jpg
 ---
 
 Cell phone plans, love 'em or hate 'em, lets explore some options on slashing your phone bill.

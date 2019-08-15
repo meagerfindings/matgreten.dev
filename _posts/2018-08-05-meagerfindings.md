@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Meagerfindings?
-permalink: /meager-what-now/
-feature-img: "images/pexels/search-map.jpeg"
-thumbnail: "images/pexels/search-map.jpeg"
+header:
+  overlay_image: images/pexels/search-map.jpeg
+  og_image: images/pexels/search-map.jpeg
 tags: [fi, meagerfindings]
 ---
 

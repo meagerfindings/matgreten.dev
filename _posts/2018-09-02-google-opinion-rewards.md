@@ -1,19 +1,16 @@
 ---
 layout: single
 title: "Nearly Free Google Play Store Credits"
-slug: nearly-free-google-play-store-credits
-# permalink:
-feature-img: "images/pexels/google-nexus-4-cropped.jpg"
-thumbnail: "images/pexels/google-nexus-4-cropped.jpg"
+header:
+  overlay_image: images/pexels/google-nexus-4-cropped.jpg
+  og_image: images/pexels/google-nexus-4-cropped.jpg
 tags: [fi, google, bonus, free money, entertainment]
 categories: [applications]
 hide: true
 toc: false
-excerpt_separator: <!--more-->
 ---
 
 Wait... there's an official Android app, straight from Google, that offers you credit in their very own [Google Play Store](https://play.google.com/store)?
-<!--more-->
 
 Why yes! They call it [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks). The app offers short surveys based on your recent search and location history.
 
