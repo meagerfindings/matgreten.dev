@@ -3,9 +3,10 @@ layout: single
 title: Resume
 permalink: /resume/
 toc: true 
-author: false
+toc_sticky: true
 toc_label: "  Experience"
 toc_icon: "file-alt"
+author_profile: false
 ---
 
 ## Summary
