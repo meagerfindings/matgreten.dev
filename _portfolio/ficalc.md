@@ -1,11 +1,9 @@
 ---
 layout: single
-title:  "FiCalc Personal Project"
+title:  "FiCalc"
 author_profile: true
 comments: true
 share: true
-related: true
-output: true
 ---
 
 Calculate your Financial Independence number, learn about FI. Includes variable inputs, including savings rate, safe withdrawal rates, comfortable and necessary annual expenses, and present savings/investment amounts.
