@@ -4,10 +4,6 @@ title: "Earning $60 in One Minute"
 header:
   overlay_image: images/unsplash/southwest-wing-rainier.jpg
   og_image: images/unsplash/southwest-wing-rainier.jpg
-tags: [travel, southwest, airmiles, rewards, rapid rewards, travel hacking]
-categories: [travel hacking, rewards]
-hide: true
-toc: false
 ---
 
 Remember when I discovered that [not all junk mail is junk mail]({{ site.baseurl }}{% link _posts/2018-07-13-earning-900-in-less-than-4-hours.md %})? I have another example of a quick win for minimal effort, if you can even call it effort.

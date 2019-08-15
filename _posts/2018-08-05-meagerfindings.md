@@ -4,7 +4,6 @@ title: Meagerfindings?
 header:
   overlay_image: images/pexels/search-map.jpeg
   og_image: images/pexels/search-map.jpeg
-tags: [fi, meagerfindings]
 ---
 
 # What are meagerfindings?

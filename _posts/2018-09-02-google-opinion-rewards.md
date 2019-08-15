@@ -4,10 +4,6 @@ title: "Nearly Free Google Play Store Credits"
 header:
   overlay_image: images/pexels/google-nexus-4-cropped.jpg
   og_image: images/pexels/google-nexus-4-cropped.jpg
-tags: [fi, google, bonus, free money, entertainment]
-categories: [applications]
-hide: true
-toc: false
 ---
 
 Wait... there's an official Android app, straight from Google, that offers you credit in their very own [Google Play Store](https://play.google.com/store)?
