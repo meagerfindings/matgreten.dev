@@ -19,9 +19,9 @@ Feature development and bug squashing, backed by 10+ years of customer service a
 
 ### Software Engineer
 
-**Kapost**
+_Kapost_: 10/2018 - _present_
 
-2018-10 - now
+_Language emphasis: React_
 
 - Collaboratively sized and groomed planned feature work with other engineers, product, and design team members for three large feature releases.
 - Participated in rolling point-guard rotation: bug triage, on-call, manage deployments.Revamped existing features written in Backbone and Coffeescript into React/Redux while expanding features and functionality.
@@ -30,13 +30,11 @@ Feature development and bug squashing, backed by 10+ years of customer service a
 - Practiced pair programming in person and over Zoom with senior engineers.
 - Ensured that test coverage of checked in code did not exceed 3% missing coverage standard.
 
-**Language emphasis:** _React_
-
 ### Technical Support Analyst
 
-**Kapost**
+_Kapost_: 08/2016 - 11/2018
 
-2016-08 - 2018-11
+_Language emphasis: Ruby_
 
 Technical Support Analyst specializing in troubleshooting and resolving customer-facing issues.
 - Interfaced with customers regarding their questions about the product, bug triage, and technical issues while serving the Customer Success, Professional Services, and Engineering teams.
@@ -46,12 +44,14 @@ Technical Support Analyst specializing in troubleshooting and resolving customer
 - Provided product training for new Implementation Managers.
 - Trained new Support team members.
 
-#### Kapost API Reporting Scripts
+#### API Reporting Scripts
 - Collaborated with Customer Success Managers to gather requirements and discover reporting inefficiencies.
 - Produced and iterated on 15+ Ruby, each of which saved CSMs more than 4 hours per report.
 - Documented Ruby / API client installation, script examples, recommendations on moving the project forward for posterity's sake.
 
-Language emphasis: Ruby
+### Exhaustive Professional Experience
+
+The entirety of my employment history can be found on my [LinkedIn profile](https://www.linkedin.com/in/matthewgreten/).
 
 ## Education
 
@@ -75,9 +75,6 @@ Bachelor of Arts Counseling & Psychology
 
 ## Languages
 
-- React
-- Redux
-- Ruby
-- Rails
-- HTML
-- CSS
+- React / Redux
+- Ruby / Rails
+- HTML / CSS
